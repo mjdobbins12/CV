@@ -1,55 +1,46 @@
-## Your Name
+## Mark Dobbins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Currently a student at [Makers Academy](https://github.com/makersacademy), a 16-week software development bootcamp based in London. 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Approaches problems analytically
 
-#### This Skill
+When faced with a seemingly intractable problem, I resolve it whenever possible into a series of smaller, manageable problems, and determine how they depend on one another. I often make use of flowcharts or other diagrams as an aid in writing organised code. 
 
-- Experience
-- Achievements
-- Evidence
+#### Learns quickly...
 
-#### Another Skill
+I readily absorb new information and find ways to relate it to my previous knowledge.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### ...but also diligently
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I believe very few challenges in life are truly unprecedented. I am happy to spend time researching cases in which others have experienced similar issues, and to learn from their experiences. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2019 - )
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, RSpec
+- TDD
+- Pair programming
+- Much more to come
 
-#### Your University / College (start_date to end_date)
+#### Eastern University (2006 - 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Psychology (B.A. track)
+- 3.1 GPA
+- Included a very interesting course on SPSS
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Cision** (June 2016 - June 2019)    
+*Media Analyst*  
+- I gained exposure to SQL, which was an important part of what inspired my coding journey
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Starbucks** (April 2013 - May 2015)   
+*Barista*  
+- I learned a great deal about working effectively and flexibly with others
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love playing piano, travelling, board games, brewing beer, solving puzzles, and many other activities for which there simply isn't enough time in a day
