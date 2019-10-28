@@ -23,7 +23,8 @@ I believe very few challenges in life are truly unprecedented. I am happy to spe
 - Ruby, RSpec
 - TDD
 - Pair programming
-- Much more to come
+- JavaScript, Node, Express
+- Python
 
 #### Eastern University (2006 - 2008)
 
