@@ -1,6 +1,6 @@
 ## Mark Dobbins
 
-Currently a student at [Makers Academy](https://github.com/makersacademy), a 16-week software development bootcamp based in London. 
+I recently graduated from [Makers Academy](https://github.com/makersacademy), a 16-week software development bootcamp based in London.
 
 ## Skills
 
@@ -18,13 +18,14 @@ I believe very few challenges in life are truly unprecedented. I am happy to spe
 
 ## Education
 
-#### Makers Academy (July 2019 - )
+#### Makers Academy (July 2019 - November 2019)
 
 - Ruby, RSpec
 - TDD
 - Pair programming
 - JavaScript, Node, Express
 - Python
+-Agile processes
 
 #### Eastern University (2006 - 2008)
 
