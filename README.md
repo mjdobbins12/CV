@@ -1,6 +1,15 @@
 ## Mark Dobbins
 
-I recently graduated from [Makers Academy](https://github.com/makersacademy), a 16-week software development bootcamp based in London.
+I recently graduated from [Makers Academy](https://github.com/makersacademy), a 16-week software development bootcamp based in London. I'm now looking for a position as a junior full-stack or back-end developer where I can bring my passion for clean code and creative problem-solving. 
+
+## Projects
+My other recent work can be found [here](https://github.com/mjdobbins12).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Chessy](https://github.com/mjdobbins12/makers-final-project) | This was my final team project at Makers Academy. A Slack-based chess app that offers the rules of the classic game, or unexpected variants if you're feeling adventurous. Challenge a colleague or play against the AI. | Python, Pytest, Slack API | 
+| [Gilded Rose](https://github.com/mjdobbins12/gilded_rose_kata) | A classic kata showing how to refactor legacy code from a massive if/else tree running off the edge of the screen into something more readable. | Ruby, RSpec |
+| [Acebook](https://github.com/mjdobbins12/acebook-Team-Meme) | A Facebook clone using Ruby on Rails with Active Record, featuring photo albums, likes and comments, and user authentication. | Ruby, Rails, RSpec, PostgreSQL |
 
 ## Skills
 
@@ -25,7 +34,7 @@ I believe very few challenges in life are truly unprecedented. I am happy to spe
 - Pair programming
 - JavaScript, Node, Express
 - Python
--Agile processes
+- Agile processes
 
 #### Eastern University (2006 - 2008)
 
